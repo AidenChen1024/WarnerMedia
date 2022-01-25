@@ -11,12 +11,8 @@ function App() {
     <Router>
       <Navbar/>
       <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
-        <Route path="/details/:id">
-          <Details />
-        </Route>
+        <Route exact path="/"> <Home /> </Route>
+        <Route path="/details/:id"> <Details /> </Route>
       </Switch>
     </Router>
   );

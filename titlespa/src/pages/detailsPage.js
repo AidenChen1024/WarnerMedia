@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
-import "../App.css";
-// get params
 import { useParams } from "react-router-dom";
-
+import "../App.css";
 import { getDetailAction } from "../state/Action";
+
+
 const Details = () => {
+  const dispatch = useDispatch();
   const { id } = useParams();
   const [details, setdetails] = useState(null);
-  const dispatch = useDispatch();
   
   const getTitleDetail = async () => {
     const data = await dispatch(getDetailAction(id));
@@ -51,12 +51,12 @@ const Details = () => {
         <div className="row story-line">
           {/* story line */}
           <div className="col-md-12">
-            <div className="story-line-container">
-              <h4 className="detail-title">Story line</h4>
+            <div className="story-container">
+              <h4 className="detail-title">Story Line</h4>
 
               {details?.storyLines?.map((item, index) => {
                 return (
-                  <div className="story-line-item" key={index}>
+                  <div className="story-item" key={index}>
                     <p>{item?.description}</p>
                   </div>
                 );
@@ -80,8 +80,8 @@ const Details = () => {
       </main>
     </div>
   ) : (
-    <div className=" main_container_loading">
-      <div class="spinner-grow" role="status">
+    <div className="loading">
+      <div class="spinner-border" role="status">
         <span class="visually-hidden">Loading...</span>
       </div>
     </div>

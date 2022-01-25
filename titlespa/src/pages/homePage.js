@@ -1,4 +1,4 @@
-import Listing_card from "../UI/Card";
+import Card from "../UI/card";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";
 
@@ -9,7 +9,7 @@ const Home = () => {
   const dispatch = useDispatch();
   const { list } = useSelector((state) => state.list);
   
-  const searchByTitile = (title) => {
+  const searchTitle = (title) => {
     if (title !== "") {
       dispatch(findAction(title));
     } else {
@@ -34,9 +34,8 @@ const Home = () => {
           <div class="input-group input-group-lg container ">
 
             <input type="text" class="form-control" aria-label="Sizing example input"
-              placeholder="Search for a movie" aria-describedby="inputGroup-sizing-lg"
-              
-              onChange={(e) => searchByTitile(e.target.value)} />
+              placeholder="Search..." aria-describedby="inputGroup-sizing-lg"
+               onChange={(e) => searchTitle(e.target.value)} />
 
           </div>
         </div>
@@ -50,7 +49,7 @@ const Home = () => {
         <div>       
           <div className="grid-5-item">
             {list?.map((item) => (
-              <Listing_card item={item} key={item.titleId} />
+              <Card item={item} key={item.titleId} />
             ))}
           </div>
         </div>
