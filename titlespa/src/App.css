@@ -1,0 +1,85 @@
+.grid-5-item {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1rem;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  min-height: 500px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.navbar span{
+  margin-left: 15px;
+}
+.bg-info{
+  margin-left: 10px;
+}
+.text-center.h1{
+  padding-bottom: 15px;
+}
+.card_item {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+.main_container {
+  min-height: 90vh;
+}
+.main_container_loading {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.story-line-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.detail-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.bg-secondary{
+  margin-left: 10px;
+}
+.not_item {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 468px) {
+  .grid-5-item {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 768px) {
+  .grid-5-item {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (min-width: 1024px) {
+  .grid-5-item {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .grid-5-item {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .grid-5-item {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7417e705-ed83-4999-8ce7-23eb1813e651": {
+      "ProjectGuid": "7417e705-ed83-4999-8ce7-23eb1813e651",
+      "DisplayName": "Titles",
+      "ColorIndex": 0
+    },
+    "55983b68-6e3d-48d2-922d-dbcefc4847b2": {
+      "ProjectGuid": "55983b68-6e3d-48d2-922d-dbcefc4847b2",
+      "DisplayName": "AppCore",
+      "ColorIndex": 1
+    },
+    "98b88093-8d24-4835-aae3-96544b286e7a": {
+      "ProjectGuid": "98b88093-8d24-4835-aae3-96544b286e7a",
+      "DisplayName": "Infrastracture",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

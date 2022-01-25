@@ -1,0 +1,141 @@
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\appsettings.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Titles.exe
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Titles.deps.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Titles.runtimeconfig.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Titles.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\ref\Titles.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Titles.pdb
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\AppCore.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\AppCore.pdb
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.csproj.AssemblyReference.cache
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.AssemblyInfoInputs.cache
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.AssemblyInfo.cs
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\scopedcss\bundle\Titles.styles.css
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.csproj.CopyComplete
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\ref\Titles.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.pdb
+C:\Users\rosen\Desktop\Title\Titles\Titles\obj\Debug\net6.0\Titles.genruntimeconfig.cache
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rosen\Desktop\Title\Titles\Titles\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\appsettings.Development.json
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\appsettings.json
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.staticwebassets.runtime.json
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.exe
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.deps.json
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.runtimeconfig.json
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\ref\Titles.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Titles.pdb
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Humanizer.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\AppCore.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Infrastracture.dll
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\AppCore.pdb
+D:\Interview challenge\Titles\Titles\bin\Debug\net6.0\Infrastracture.pdb
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.csproj.AssemblyReference.cache
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.AssemblyInfoInputs.cache
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.AssemblyInfo.cs
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.csproj.CoreCompileInputs.cache
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.MvcApplicationPartsAssemblyInfo.cs
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.RazorAssemblyInfo.cache
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.RazorAssemblyInfo.cs
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\staticwebassets.build.json
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\staticwebassets.development.json
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\scopedcss\bundle\Titles.styles.css
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\scopedcss\projectbundle\Titles.bundle.scp.css
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.csproj.CopyComplete
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.dll
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\ref\Titles.dll
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.pdb
+D:\Interview challenge\Titles\Titles\obj\Debug\net6.0\Titles.genruntimeconfig.cache
